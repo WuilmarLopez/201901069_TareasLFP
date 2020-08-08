@@ -1,0 +1,15 @@
+DIFERENCIAS ENTRE LENGUAJES DE PROGRAMACION IMPERATIVOS Y DECLARATIVOS
+
+Los lenguajes de programacion imperativos son los lenguajes de programacion mas antiguos es decir los primeros que fueron creados. De acuerdo al paradigma un programa consiste en una secuencia de instrucciones definidas para una computadora. Se podria decir que los lenguajes de programacion imperativos consiste en una cadena de instrucciones una detras de la otra que deternmina lo que debe hacer la computadora en cada momento, estos lenguajes trabajan muy cerca del sistema.
+Estos lenguajes se distinguen por ser de caracter instructivo, por tal motivo normalmente se utilizan mas lineas de codigo fuente para expresar el objetivo al que se desea llegar.
+
+Por otro lado los lenguajes de programacion delcarativos se destacan en que siempre se describe el resultado final deseado y se determina una vida de solucion, a diferencia de los imperativos que muestran todos los pasos de trabajo para alcanzar un objetivo.
+Uno de los puntos fuertes de la programacion delcarativa es su capacidad para describir problemas de una forma mas corta que en la imperativa.
+
+Los lenguajes imperativos centran en el "como" y los declarativos y de forma declarativa en el "que".
+
+Un ejemplo en la vida real de estos lenguajes podriamos decir que los lenguajes de programacion son como una receta de cocina en el que se muestra paso a paso lo que se debe hacer en cada momento y los lenguajes declarativos son como fotografias que se podrian ver en cada momento para realizar la comida que se decea.
+
+
+Los ejemplos de uso de estos paradigmas son:
+Un programa desarrollado en java y una pagina desarrollada en html.
