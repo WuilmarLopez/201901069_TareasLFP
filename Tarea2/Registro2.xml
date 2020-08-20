@@ -1,0 +1,26 @@
+<Registro>
+	<Primero>
+		<nombre>Wuilmar</nombre>
+		<apellido>Lopez</apellido>
+		<pais>Guatemala</pais>
+		<estadoCivil>soltero</estadoCivil>
+	</Primero>
+	<Segundo>
+		<nombre>Mario</nombre>
+		<apellido>Perez</apellido>
+		<pais>El Salvador</pais>
+		<estadoCivil>Casado</estadoCivil>
+	</Segundo>
+	<Tercero>
+		<nombre>Carlos</nombre>
+		<apellido>Castro</apellido>
+		<pais>EEUU</pais>
+		<estadoCivil>Casado</estadoCivil>
+	</Tercero>
+	<Cuarto>
+		<nombre>Pedro</nombre>
+		<apellido>Romero</apellido>
+		<pais>Argentina</pais>
+		<estadoCivil>Divorciado</estadoCivil>
+	</Cuarto>
+</Registro>
